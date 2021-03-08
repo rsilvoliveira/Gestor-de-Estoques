@@ -1,0 +1,809 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FluentForm Pro Add On Pack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-02 23:22+0000\n"
+"PO-Revision-Date: 2019-11-02 23:23+0000\n"
+"Language-Team: French (France)\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.4\n"
+"Last-Translator: root <cep.jewel@gmail.com>\n"
+"Language: fr_FR"
+
+#: libs/ff_plugin_updater/ff-fluentform-pro-update.php:41
+msgid "WP Fluent Forms Pro Add On"
+msgstr "Ajout de WP Fluent Forms Pro"
+
+#: libs/ff_plugin_updater/ff-fluentform-pro-update.php:43
+msgid "Fluent Forms Pro License"
+msgstr ""
+
+#: src/classes/EntryEditor.php:23
+msgid "Entry data successfully updated"
+msgstr "Données d'entrée mises à jour avec succès"
+
+#: src/Components/PhoneField.php:44
+msgid "This field is required"
+msgstr "Ce champ est requis"
+
+#: src/Components/PhoneField.php:48
+msgid "Phone number is not valid"
+msgstr "Le numéro de téléphone n'est pas valide"
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:167
+#, php-format
+msgid "Thank you for purchasing %s!  Please enter your license key below."
+msgstr ""
+"Merci d'avoir acheté %s ! Veuillez entrer votre clé de licence ci-dessous."
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:229
+msgid "Sorry! You do not have permission to activate this license."
+msgstr "Désolé ! Vous n'êtes pas autorisé à activer cette licence."
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:354
+msgid "Sorry! You do not have permission to deactivate this license."
+msgstr "Désolé ! Vous n'êtes pas autorisé à désactiver cette licence."
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:388
+msgid ""
+"There was an error deactivating the license, please try again or contact "
+"support."
+msgstr ""
+"Une erreur s'est produite lors de la désactivation de la licence. Veuillez "
+"réessayer ou contacter le support."
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:405
+msgid "License deactivated"
+msgstr "Licence désactivée"
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:414
+msgid "Unable to deactivate license, please try again or contact support."
+msgstr ""
+"Impossible de désactiver la licence, veuillez réessayer ou contacter le "
+"support."
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:35
+msgid "ActiveCampaign API Settings"
+msgstr "Paramètres de l'API ActiveCampaign"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:36
+msgid ""
+"ActiveCampaign is an integrated email marketing, marketing automation, and "
+"small business CRM. Save time while growing your business with sales "
+"automation. Use Fluent Form to collect customer information and "
+"automatically add it to your ActiveCampaign list. If you don't have an "
+"ActiveCampaign account, you can <a href=\"https://www.activecampaign.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"ActiveCampaign est une solution intégrée de marketing par courriel, "
+"d'automatisation du marketing et de gestion de la relation client pour les "
+"petites entreprises. Gagnez du temps tout en développant votre activité "
+"grâce à l'automatisation des ventes. Utilisez Fluent Form pour collecter des "
+"informations sur les clients et les ajouter automatiquement à votre liste "
+"ActiveCampaign. Si vous n'avez pas de compte ActiveCampaign, vous pouvez <a "
+"href=\"https://www.activecampaign.com/\" target=\"_blank\"> en créer un ici "
+"</a>."
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:37
+msgid "Your ActiveCampaign configuration is valid"
+msgstr "Votre configuration ActiveCampaign est valide"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:38
+msgid "Your ActiveCampaign configuration is invalid"
+msgstr "Votre configuration ActiveCampaign est invalide"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:44
+msgid "Please Provide your ActiveCampaign API URL"
+msgstr "S'il vous plaît fournir votre URL API ActiveCampaign"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:45
+msgid "ActiveCampaign API URL"
+msgstr "URL de l'API ActiveCampaign"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:50
+msgid ""
+"Enter your ActiveCampaign API Key, if you do not have <br>Please login to "
+"your ActiveCampaign account and find the api key"
+msgstr ""
+"Entrez votre clé API ActiveCampaign, si vous ne possédez pas de code. "
+"Veuillez vous connecter à votre compte ActiveCampaign et trouver la clé api."
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:51
+msgid "ActiveCampaign API Key"
+msgstr "Clé de l'API ActiveCampaign"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:92
+#: src/Integrations/CampaignMonitor/Bootstrap.php:98
+#: src/Integrations/GetResponse/Bootstrap.php:51
+msgid "Your settings has been updated and discarted"
+msgstr "Vos paramètres ont été mis à jour et supprimés"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:107
+#: src/Integrations/GetResponse/Bootstrap.php:71
+msgid "Your settings has been updated!"
+msgstr "Vos paramètres ont été mis à jour!"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:195
+#: src/Integrations/IContact/Bootstrap.php:220
+msgid "First Name"
+msgstr "Prénom"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:200
+#: src/Integrations/IContact/Bootstrap.php:224
+msgid "Last Name"
+msgstr "Nom de famille"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:205
+#: src/Integrations/IContact/Bootstrap.php:252
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:210
+msgid "Organization Name"
+msgstr "Nom de l'organisation"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:36
+msgid "CampaignMonitor API Settings"
+msgstr "Paramètres de l'API CampaignMonitor"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:37
+msgid ""
+"CampaignMonitor drives results with email marketing. It shares how to gain "
+"loyal customers with personalized email campaigns and automated customer "
+"journeys. Use Fluent Form to collect customer information and automatically "
+"add it to your CampaignMonitor list. If you don't have an CampaignMonitor "
+"account, you can <a href=\"https://www.campaignmonitor.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"CampaignMonitor génère des résultats avec le marketing par courrier "
+"électronique. Il explique comment gagner des clients fidèles avec des "
+"campagnes par courrier électronique personnalisées et des parcours clients "
+"automatisés. Utilisez Fluent Form pour collecter des informations sur les "
+"clients et les ajouter automatiquement à votre liste CampaignMonitor. Si "
+"vous n'avez pas de compte CampaignMonitor, vous pouvez <a href=\"https://www."
+"campaignmonitor.com/\" target=\"_blank\"> en créer un ici </a>."
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:38
+msgid "Your CampaignMonitor configuration is valid"
+msgstr "Votre configuration de CampaignMonitor est valide"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:39
+msgid "Your CampaignMonitor configuration is invalid"
+msgstr "Votre configuration de CampaignMonitor est invalide"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:45
+msgid ""
+"Enter your CampaignMonitor API Key, if you do not have <br>Please login to "
+"your CampaignMonitor account and find the api key"
+msgstr ""
+"Entrez votre clé API CampaignMonitor, si vous ne possédez pas de clé. "
+"Connectez-vous à votre compte CampaignMonitor et recherchez la clé api."
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:46
+msgid "CampaignMonitor API Key"
+msgstr "Clé de l'API CampaignMonitor"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:52
+msgid "Select the CampaignMonitor client that you want to connect this site"
+msgstr ""
+"Sélectionnez le client CampaignMonitor auquel vous souhaitez connecter ce "
+"site."
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:53
+msgid "CampaignMonitor Client"
+msgstr "Client CampaignMonitor"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:109
+#: src/Integrations/ConstantContact/Bootstrap.php:97
+#: src/Integrations/ConvertKit/Bootstrap.php:93
+#: src/Integrations/GetGist/Bootstrap.php:84
+#: src/Integrations/MailerLite/Bootstrap.php:83
+#: src/Integrations/Mautic/Bootstrap.php:100
+#: src/Integrations/MooSend/Bootstrap.php:83
+#: src/Integrations/SendFox/Bootstrap.php:84
+#: src/Integrations/SMSNotification/Bootstrap.php:101
+msgid "Your settings has been updated"
+msgstr "Vos paramètres ont été mis à jour"
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:112
+msgid "Please Select Client Now"
+msgstr "Veuillez sélectionner le client maintenant"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:39
+msgid "ConstantContact API Settings"
+msgstr "Paramètres de l'API ConstantContact"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:40
+msgid ""
+"Constant Contact makes it easy to send email newsletters to your customers, "
+"manage your subscriber lists, and track campaign performance. Use WP Fluent "
+"Forms to collect customer information and automatically add it to your "
+"Constant Contact subscriber list. If you don't have a Constant Contact "
+"account, you can <a href=\"https://www.constantcontact.com/\">sign up for "
+"one here</a>."
+msgstr ""
+"Constant Contact facilite l'envoi de newsletters par courrier électronique à "
+"vos clients, la gestion de vos listes d'abonnés et le suivi des performances "
+"des campagnes. Utilisez WP Fluent Forms pour collecter des informations sur "
+"les clients et les ajouter automatiquement à votre liste d’abonnés Constant "
+"Contact. Si vous n'avez pas de compte de contact constant, vous pouvez <a "
+"href=\"https://www.constantcontact.com/\"> en créer un ici </a>."
+
+#: src/Integrations/ConstantContact/Bootstrap.php:41
+msgid "Your ConstantContact API Key is valid"
+msgstr "Votre clé API ConstantContact est valide"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:42
+msgid "Your ConstantContact API Key is not valid"
+msgstr "Votre clé d'API ConstantContact n'est pas valide"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:49
+msgid ""
+"Enter your ConstantContact API Key, if you do not have <br>Please login to "
+"your ConstantContact account and go to<br>Profile -> Account Settings -> "
+"Account Info"
+msgstr ""
+"Entrez votre clé API ConstantContact, si vous n'avez pas de compte. "
+"Connectez-vous à votre compte ConstantContact et accédez à <br> Profil -> "
+"Paramètres du compte -> Informations sur le compte"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:50
+msgid "ConstantContact API Key"
+msgstr "Clé de l'API ConstantContact"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:55
+msgid ""
+"Enter your ConstantContact Access Token, if you do not have <br>Please login "
+"to your ConstantContact and find the access token"
+msgstr ""
+"Entrez votre jeton d'accès ConstantContact, si vous n'avez pas de code "
+"d'accès. Connectez-vous à votre compte ConstantContact et recherchez le "
+"jeton d'accès."
+
+#: src/Integrations/ConstantContact/Bootstrap.php:56
+msgid "ConstantContact App Secret"
+msgstr "ConstantContact App Secret"
+
+#: src/Integrations/ConstantContact/Bootstrap.php:516
+msgid ""
+"You're trying to add a contact which has been deleted from your "
+"ConstantContact account. Currently you have to manually revive the contact "
+"via the Constant Contact website."
+msgstr ""
+"Vous essayez d'ajouter un contact qui a été supprimé de votre compte "
+"ConstantContact. Actuellement, vous devez réactiver manuellement le contact "
+"via le site Web Constant Contact."
+
+#: src/Integrations/ConvertKit/Bootstrap.php:36
+msgid "ConvertKit Settings"
+msgstr "Paramètres ConvertKit"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:37
+msgid ""
+"ConvertKit is email marketing software for creators. Use Fluent Form to "
+"collect customer information and automatically add it as ConvertKit "
+"subscriber list."
+msgstr ""
+"ConvertKit est un logiciel de marketing par courriel pour les créateurs. "
+"Utilisez Fluent Form pour collecter les informations client et les ajouter "
+"automatiquement en tant que liste des abonnés ConvertKit."
+
+#: src/Integrations/ConvertKit/Bootstrap.php:38
+msgid "Your ConvertKit API Key is valid"
+msgstr "Votre clé d'API ConvertKit est valide"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:39
+msgid "Your ConvertKit API Key is not valid"
+msgstr "Votre clé d'API ConvertKit n'est pas valide"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:45
+msgid ""
+"Enter your ConvertKit API Key, if you do not have <br>Please login to your "
+"ConvertKit account and go to<br>Profile -> Account Settings -> Account Info"
+msgstr ""
+"Entrez votre clé d'API ConvertKit, si vous n'avez pas de compte. Connectez-"
+"vous à votre compte ConvertKit et accédez à <br> Profil -> Paramètres du "
+"compte -> Informations sur le compte"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:46
+msgid "ConvertKit API Key"
+msgstr "Clé de l'API ConvertKit"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:51
+msgid ""
+"Enter your ConvertKit API Secret, if you do not have <br>Please login to "
+"your ConvertKit account and go to<br>Profile -> Account Settings -> Account "
+"Info"
+msgstr ""
+"Entrez le secret de votre API ConvertKit, si vous n'avez pas de compte. "
+"Connectez-vous à votre compte ConvertKit et accédez à <br> Profil -> "
+"Paramètres du compte -> Informations sur le compte"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:52
+msgid "ConvertKit API Secret"
+msgstr "Secret de l'API ConvertKit"
+
+#: src/Integrations/ConvertKit/Bootstrap.php:131
+msgid "Your ConvertKit api key has been verfied and successfully set"
+msgstr "Votre clé API ConvertKit a été vérifiée et définie avec succès"
+
+#: src/Integrations/GetGist/Bootstrap.php:35
+msgid "GetGist Settings"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:37
+msgid "Your GetGist API Key is valid"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:38
+msgid "Your GetGist API Key is not valid"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:39
+#: src/Integrations/GetResponse/Bootstrap.php:94
+#: src/Integrations/Hubspot/Bootstrap.php:37
+#: src/Integrations/IContact/Bootstrap.php:39
+#: src/Integrations/MailerLite/Bootstrap.php:38
+#: src/Integrations/Mautic/Bootstrap.php:39
+#: src/Integrations/SMSNotification/Bootstrap.php:39
+msgid "Save Settings"
+msgstr "Enregistrer les paramètres"
+
+#: src/Integrations/GetGist/Bootstrap.php:44
+msgid ""
+"Enter your GetGist API Key, if you do not have <br>Please login to your "
+"GetGist account and go to<br>Settings -> Integrations -> API key"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:45
+msgid "GetGist API Key"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:120
+msgid "Your GetGist api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/GetResponse/Bootstrap.php:90
+msgid "GetResponse API Settings"
+msgstr "Paramètres de l'API GetResponse"
+
+#: src/Integrations/GetResponse/Bootstrap.php:91
+msgid ""
+"GetResponse is an email marketing platform. It enables you to send email "
+"newsletters, campaigns, online surveys and follow-up autoresponders. Simple, "
+"easy interface. Use Fluent Form to collect customer information and "
+"automatically add it to your GetResponse list. If you don't have a "
+"GetResponse account, you can <a href=\"https://www.getresponse.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+"GetResponse est une plateforme de marketing par courrier électronique. Il "
+"vous permet d’envoyer des courriers électroniques, des campagnes, des "
+"sondages en ligne et des répondeurs automatiques de suivi. Interface simple "
+"et facile. Utilisez Fluent Form pour collecter des informations sur les "
+"clients et les ajouter automatiquement à votre liste GetResponse. Si vous "
+"n'avez pas de compte GetResponse, vous pouvez <a href=\"https://www."
+"getresponse.com/\" target=\"_blank\"> en créer un ici </a>."
+
+#: src/Integrations/GetResponse/Bootstrap.php:92
+msgid "Your GetResponse configuration is valid"
+msgstr "Votre configuration GetResponse est valide"
+
+#: src/Integrations/GetResponse/Bootstrap.php:93
+msgid "Your GetResponse configuration is invalid"
+msgstr "Votre configuration GetResponse n'est pas valide"
+
+#: src/Integrations/GetResponse/Bootstrap.php:99
+msgid ""
+"Enter your GetResponse API Key, if you do not have<br />Please login to your "
+"GetResponse account and go to<br />Integrations & API from main menu."
+msgstr ""
+"Entrez votre clé API GetResponse, si vous n'avez pas <br /> Connectez-vous à "
+"votre compte GetResponse et accédez à <br /> Intégrations et API dans le "
+"menu principal."
+
+#: src/Integrations/GetResponse/Bootstrap.php:100
+msgid "GetResponse API Key"
+msgstr "Clé API GetResponse"
+
+#: src/Integrations/Hubspot/Bootstrap.php:33
+msgid "Hubspot API Settings"
+msgstr "Paramètres de l'API Hubspot"
+
+#: src/Integrations/Hubspot/Bootstrap.php:34
+msgid ""
+"Hubspot is a CRM software. Use Fluent Form to collect customer information "
+"and automatically add it as Hubspot subscriber list."
+msgstr ""
+"Hubspot est un logiciel de CRM. Utilisez Fluent Form pour collecter des "
+"informations sur les clients et les ajouter automatiquement en tant que "
+"liste des abonnés Hubspot."
+
+#: src/Integrations/Hubspot/Bootstrap.php:35
+msgid "Your Hubspot API Key is valid"
+msgstr "Votre clé d'API Hubspot est valide"
+
+#: src/Integrations/Hubspot/Bootstrap.php:36
+msgid "Your Hubspot API Key is not valid"
+msgstr "Votre clé d'API Hubspot n'est pas valide"
+
+#: src/Integrations/Hubspot/Bootstrap.php:42
+msgid ""
+"Enter your Hubspot API Key, if you do not have <br>Please login to your "
+"Hubspot account and go to<br>Profile -> Account Settings -> Account Info"
+msgstr ""
+"Entrez votre clé API Hubspot, si vous n'avez pas de compte. Connectez-vous à "
+"votre compte Hubspot et accédez à <br> Profil -> Paramètres du compte -> "
+"Informations sur le compte"
+
+#: src/Integrations/Hubspot/Bootstrap.php:43
+msgid "Hubspot API Key"
+msgstr "Clé d'API Hubspot"
+
+#: src/Integrations/Hubspot/Bootstrap.php:81
+msgid "Your settings has been updated and discarded"
+msgstr "Vos paramètres ont été mis à jour et supprimés"
+
+#: src/Integrations/Hubspot/Bootstrap.php:119
+msgid "Your HubSport api key has been verfied and successfully set"
+msgstr "Votre clé d’application HubSport a été vérifiée et définie avec succès"
+
+#: src/Integrations/IContact/Bootstrap.php:35
+msgid "iContact API Settings"
+msgstr "Paramètres de l'API iContact"
+
+#: src/Integrations/IContact/Bootstrap.php:36
+msgid ""
+"iContact is an email marketing platform to send email newsletters to your "
+"customers, manage your<br />subscriber lists, and track campaign performance."
+" Use Fluent Form to collect customer information<br />and automatically add "
+"it to your iContact list. If you don't have an iContact account,<br />you "
+"can <a href=\"https://www.icontact.com/\" target=\"_blank\">sign up for one "
+"here.</a>"
+msgstr ""
+"iContact est une plate-forme de marketing par e-mail permettant d'envoyer "
+"des newsletters par courrier électronique à vos clients, de gérer vos <br /> "
+"listes d'abonnés et de suivre les performances des campagnes. Utilisez "
+"Fluent Form pour collecter les informations client <br /> et les ajouter "
+"automatiquement à votre liste iContact. Si vous n'avez pas de compte "
+"iContact, <br /> vous pouvez <a href=\"https://www.icontact.com/\" "
+"target=\"_blank\"> en créer un ici </a>."
+
+#: src/Integrations/IContact/Bootstrap.php:37
+msgid "Your iContact configuration is valid"
+msgstr "Votre configuration iContact est valide"
+
+#: src/Integrations/IContact/Bootstrap.php:38
+msgid "Your iContact configuration is invalid"
+msgstr "Votre configuration iContact est invalide"
+
+#: src/Integrations/IContact/Bootstrap.php:45
+msgid "Enter your iContact Application Key"
+msgstr "Entrez votre clé d'application iContact"
+
+#: src/Integrations/IContact/Bootstrap.php:46
+msgid "Application Key"
+msgstr "Clé d'application"
+
+#: src/Integrations/IContact/Bootstrap.php:51
+msgid "Enter your iContact Account Email Address"
+msgstr "Entrez l'adresse e-mail de votre compte iContact"
+
+#: src/Integrations/IContact/Bootstrap.php:52
+msgid "Account Email Address"
+msgstr "Adresse e-mail du compte"
+
+#: src/Integrations/IContact/Bootstrap.php:57
+msgid "Enter your iContact API Password"
+msgstr "Entrez votre mot de passe API iContact"
+
+#: src/Integrations/IContact/Bootstrap.php:58
+msgid "API Password"
+msgstr "Mot de passe API"
+
+#: src/Integrations/IContact/Bootstrap.php:63
+msgid "Enter your Client Folder ID"
+msgstr "Entrez votre ID de dossier client"
+
+#: src/Integrations/IContact/Bootstrap.php:64
+msgid "Client Folder ID"
+msgstr "ID du dossier client"
+
+#: src/Integrations/IContact/Bootstrap.php:108
+msgid "Your API settings has been updated and discarted"
+msgstr "Vos paramètres d'API ont été mis à jour et supprimés"
+
+#: src/Integrations/IContact/Bootstrap.php:134
+msgid "Your API key settings has been verfied and updated. All good!"
+msgstr ""
+"Les paramètres de votre clé d'API ont été vérifiés et mis à jour. Tout bon !!"
+"!"
+
+#: src/Integrations/IContact/Bootstrap.php:216
+msgid "Prefix"
+msgstr "Prefixe"
+
+#: src/Integrations/IContact/Bootstrap.php:228
+msgid "Suffix"
+msgstr "Suffixe"
+
+#: src/Integrations/IContact/Bootstrap.php:232
+msgid "Address: Line 1"
+msgstr "Adresse 1"
+
+#: src/Integrations/IContact/Bootstrap.php:236
+msgid "Address: Line 2"
+msgstr "Adresse 2"
+
+#: src/Integrations/IContact/Bootstrap.php:240
+msgid "Address: City"
+msgstr "L'addresse : Ville"
+
+#: src/Integrations/IContact/Bootstrap.php:244
+msgid "Address: State"
+msgstr "Adresse : Pays"
+
+#: src/Integrations/IContact/Bootstrap.php:248
+msgid "Address: Postal Code"
+msgstr "Adresse : Code Postal"
+
+#: src/Integrations/IContact/Bootstrap.php:256
+msgid "Fax Number"
+msgstr "Numéro de fax"
+
+#: src/Integrations/IContact/Bootstrap.php:260
+msgid "Business Number"
+msgstr "Numéro d'entreprise"
+
+#: src/Integrations/MailerLite/Bootstrap.php:34
+msgid "MailerLite Settings"
+msgstr "Paramètres MailerLite"
+
+#: src/Integrations/MailerLite/Bootstrap.php:36
+msgid "Your MailerLite API Key is valid"
+msgstr "Votre clé API MailerLite est valide"
+
+#: src/Integrations/MailerLite/Bootstrap.php:37
+msgid "Your MailerLite API Key is not valid"
+msgstr "Votre clé API MailerLite n'est pas valide"
+
+#: src/Integrations/MailerLite/Bootstrap.php:43
+msgid ""
+"Enter your MailerLite API Key, if you do not have <br>Please login to your "
+"MailerLite account and go to<br>Profile -> Account Settings -> Account Info"
+msgstr ""
+"Entrez votre clé API MailerLite, si vous n'avez pas de mot de passe. "
+"Connectez-vous à votre compte MailerLite et accédez à <br> Profil -> "
+"Paramètres du compte -> Informations sur le compte"
+
+#: src/Integrations/MailerLite/Bootstrap.php:44
+msgid "MailerLite API Key"
+msgstr "Clé de l'API MailerLite"
+
+#: src/Integrations/MailerLite/Bootstrap.php:118
+msgid "Your MailerLite api key has been verfied and successfully set"
+msgstr "Votre clé API MailerLite a été vérifiée et définie avec succès"
+
+#: src/Integrations/Mautic/Bootstrap.php:35
+msgid "Mautic Settings"
+msgstr ""
+
+#: src/Integrations/Mautic/Bootstrap.php:37
+msgid "Your Mautic API Key is valid"
+msgstr ""
+
+#: src/Integrations/Mautic/Bootstrap.php:38
+msgid "Your Mautic API Key is not valid"
+msgstr ""
+
+#: src/Integrations/Mautic/Bootstrap.php:44
+#: src/Integrations/Mautic/Bootstrap.php:50
+#: src/Integrations/Mautic/Bootstrap.php:56
+msgid ""
+"Enter your Mautic API Key, if you do not have <br>Please login to your "
+"Mautic account and go to<br>Settings -> Integrations -> API key"
+msgstr ""
+
+#: src/Integrations/Mautic/Bootstrap.php:45
+msgid "Your Moutic API URL"
+msgstr ""
+
+#: src/Integrations/Mautic/Bootstrap.php:51
+msgid "Mautic Username"
+msgstr ""
+
+#: src/Integrations/Mautic/Bootstrap.php:57
+msgid "Mautic Password"
+msgstr ""
+
+#: src/Integrations/Mautic/Bootstrap.php:145
+msgid "Your Mautic api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:34
+msgid "MooSend API Settings"
+msgstr "Paramètres de l'API MooSend"
+
+#: src/Integrations/MooSend/Bootstrap.php:35
+msgid ""
+"MooSend is email marketing software. Use Fluent Form to collect customer "
+"information and automatically add it as ConvertKit subscriber list."
+msgstr ""
+"MooSend est un logiciel de marketing par courrier électronique. Utilisez "
+"Fluent Form pour collecter les informations client et les ajouter "
+"automatiquement en tant que liste des abonnés ConvertKit."
+
+#: src/Integrations/MooSend/Bootstrap.php:36
+msgid "Your MooSend API Key is valid"
+msgstr "Votre clé API MooSend est valide"
+
+#: src/Integrations/MooSend/Bootstrap.php:37
+msgid "Your MooSend API Key is not valid"
+msgstr "Votre clé API MooSend n'est pas valide"
+
+#: src/Integrations/MooSend/Bootstrap.php:43
+msgid ""
+"Enter your MooSend API Key, if you do not have <br>Please login to your "
+"MooSend account and go to<br>Account -> Appi Key"
+msgstr ""
+"Entrez votre clé API MooSend, si vous ne possédez pas de. Veuillez vous "
+"connecter à votre compte MooSend et aller à votre compte <br> -> Clé Appi"
+
+#: src/Integrations/MooSend/Bootstrap.php:44
+msgid "MooSend API Key"
+msgstr "Clé de l'API MooSend"
+
+#: src/Integrations/MooSend/Bootstrap.php:113
+msgid "Your MooSend api key has been verfied and successfully set"
+msgstr "Votre clé de l'API MooSend a été vérifiée et définie avec succès"
+
+#: src/Integrations/SendFox/Bootstrap.php:35
+msgid "SendFox API Settings"
+msgstr "Paramètres de l'API SendFox"
+
+#: src/Integrations/SendFox/Bootstrap.php:36
+msgid ""
+"SendFox is email marketing software. Use Fluent Form to collect customer "
+"information and automatically add it as SendFox subscriber list."
+msgstr ""
+"SendFox est un logiciel de marketing par courrier électronique. Utilisez "
+"Fluent Form pour collecter des informations sur les clients et les ajouter "
+"automatiquement en tant que liste des abonnés SendFox."
+
+#: src/Integrations/SendFox/Bootstrap.php:37
+msgid "Your SendFox API Key is valid"
+msgstr "Votre clé API SendFox est valide"
+
+#: src/Integrations/SendFox/Bootstrap.php:38
+msgid "Your SendFox API Key is not valid"
+msgstr "Votre clé API SendFox n'est pas valide"
+
+#: src/Integrations/SendFox/Bootstrap.php:44
+msgid ""
+"Enter your SendFox API Key, if you do not have <br>Please login to your "
+"Sendfox account and go to<br>Account -> Appi Key"
+msgstr ""
+"Entrez votre clé API SendFox, si vous n'avez pas de compte. Veuillez vous "
+"connecter à votre compte Sendfox et aller à votre compte <br> -> Clé Appi"
+
+#: src/Integrations/SendFox/Bootstrap.php:45
+msgid "SendFox API Key"
+msgstr "Clé de l'API SendFox"
+
+#: src/Integrations/SendFox/Bootstrap.php:114
+msgid "Your SendFox api key has been verfied and successfully set"
+msgstr "Votre clé API SendFox a été vérifiée et définie avec succès"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:35
+msgid "SMS Provider Settings (Twillio)"
+msgstr "Paramètres du fournisseur SMS (Twillio)"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:36
+msgid "Please Provide your Twillio Settings here"
+msgstr "Veuillez indiquer vos paramètres Twillio ici"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:37
+msgid "Your Twillio API Key is valid"
+msgstr "Votre clé API Twillio est valide"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:38
+msgid "Your Twillio API Key is not valid"
+msgstr "Votre clé API Twillio n'est pas valide"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:44
+msgid "Enter your twillo sender number"
+msgstr "Entrez votre numéro d'expéditeur double"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:45
+msgid "Number From"
+msgstr "Nombre de"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:50
+msgid "Enter Twillio Account SID. This can be found from twillio"
+msgstr ""
+"Entrez le compte SID du compte Twillio. Cela peut être trouvé de twillio"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:51
+msgid "Account SID"
+msgstr "Compte SID"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:56
+msgid "Enter Twillio API Auth Token. This can be found from twillio"
+msgstr ""
+"Entrez le jeton d’authentification de l’API Twillio. Cela peut être trouvé "
+"de twillio"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:57
+msgid "Auth Token"
+msgstr "Jeton d'authentification"
+
+#: src/Integrations/SMSNotification/Bootstrap.php:143
+msgid "Your Twillio api key has been verfied and successfully set"
+msgstr "Votre clé API Twillio a été vérifiée et définie avec succès"
+
+#: src/Integrations/WebHook/Client.php:56
+msgid "Feed successfully updated"
+msgstr "Flux mis à jour avec succès"
+
+#: src/Integrations/WebHook/Client.php:59
+msgid "Feed successfully created"
+msgstr "Flux créé avec succès"
+
+#: src/Integrations/WebHook/Client.php:77
+msgid "Selected WebHook Feed is deleted"
+msgstr "Le flux WebHook sélectionné est supprimé."
+
+#: src/Integrations/WebHook/Client.php:94
+msgid "Feed Name is required"
+msgstr "Le nom du flux est obligatoire"
+
+#: src/Integrations/WebHook/Client.php:95
+msgid "Request URL is required"
+msgstr "L'URL de demande est obligatoire"
+
+#: src/Integrations/WebHook/Client.php:96
+msgid "Request URL format is invalid"
+msgstr "Le format de l'URL de la demande n'est pas valide"
+
+#: src/Integrations/WebHook/Client.php:97
+msgid "Request body is required"
+msgstr "Le corps de la demande est requis"
+
+#: src/Integrations/WebHook/Client.php:103
+msgid "Field name is required"
+msgstr "Le nom du champ est obligatoire"
+
+#: src/Integrations/WebHook/Client.php:107
+msgid "Header name is required"
+msgstr "Le nom de l'en-tête est obligatoire"
+
+#: src/Integrations/WebHook/Client.php:113
+msgid "Please fix the errors"
+msgstr "S'il vous plaît corriger les erreurs"
+
+#. Name of the plugin
+msgid "Fluent Forms Pro Add On Pack"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The Pro version of FluentForm, the most advanced, drag and drop form builder "
+"plugin for WordPress."
+msgstr ""
+"La version Pro de FluentForm, le plugin de création de formulaires le plus "
+"avancé pour WordPress."
+
+#. URI of the plugin
+msgid "https://wpfluentforms.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Fluent Forms"
+msgstr "WP Fluent Forms"
+
+#. Author URI of the plugin
+msgid "https://wpfluentforms.com"
+msgstr ""

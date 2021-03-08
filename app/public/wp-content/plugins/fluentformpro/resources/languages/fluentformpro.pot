@@ -1,0 +1,1285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FluentForm Pro Add On Pack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-30 16:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.3"
+
+#: libs/ff_plugin_updater/ff-fluentform-pro-update.php:41
+msgid "WP Fluent Forms Pro Add On"
+msgstr ""
+
+#: libs/ff_plugin_updater/ff-fluentform-pro-update.php:43
+msgid "Fluent Forms Pro License"
+msgstr ""
+
+#: src/Payments/PaymentHandler.php:186
+msgid ""
+"Sorry! No selected payment method found. Please select a valid payment method"
+msgstr ""
+
+#: src/Payments/PaymentHandler.php:214
+msgid "Payment Settings"
+msgstr ""
+
+#: src/Payments/AjaxEndpoints.php:39
+msgid "Payment Module successfully enabled!"
+msgstr ""
+
+#: src/Payments/AjaxEndpoints.php:70
+msgid "Settings successfully updated!"
+msgstr ""
+
+#: src/Payments/AjaxEndpoints.php:96
+msgid "Failed to save settings"
+msgstr ""
+
+#: src/Payments/AjaxEndpoints.php:104
+msgid "Settings successfully updated"
+msgstr ""
+
+#: src/Payments/AjaxEndpoints.php:126
+msgid "Settings successfully saved"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:456
+msgid "Burundian Franc"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:457
+msgid "Chilean Peso"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:458
+msgid "Djiboutian Franc"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:459
+msgid "Guinean Franc"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:460
+msgid "Japanese Yen"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:461
+msgid "Comorian Franc"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:462
+msgid "South Korean Won"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:463
+msgid "Malagasy Ariary"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:464
+msgid "Paraguayan Guaraní"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:465
+msgid "Rwandan Franc"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:466
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:467
+msgid "Vanuatu Vatu"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:468
+msgid "Central African Cfa Franc"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:469
+msgid "West African Cfa Franc"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:470
+msgid "Cfp Franc"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:484
+msgid "Paid"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:485
+msgid "Processing"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:486
+msgid "Pending"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:487
+msgid "Failed"
+msgstr ""
+
+#: src/Payments/PaymentHelper.php:488
+msgid "Refunded"
+msgstr ""
+
+#: src/classes/EntryEditor.php:23
+msgid "Entry data successfully updated"
+msgstr ""
+
+#: src/classes/FormStyler.php:123
+msgid "Styles successfully updated"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:16
+#: src/Components/NetPromoterScore.php:35
+#: src/Components/NetPromoterScore.php:66
+msgid "Net Promoter Score"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:36
+msgid "Not at all Likely"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:37
+msgid "Extremely Likely"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:48
+#: src/Components/RangeSliderField.php:42 src/Components/PhoneField.php:44
+#: src/Payments/Components/CustomPaymentComponent.php:47
+#: src/Payments/Components/ItemQuantity.php:49
+#: src/Payments/Components/MultiPaymentComponent.php:54
+#: src/Components/ChainedSelect/ChainedSelect.php:64
+#: src/Components/Post/Components/PostTitle.php:42
+#: src/Components/Post/Components/PostContent.php:57
+#: src/Components/Post/Components/PostExcerpt.php:45
+#: src/Components/Post/Components/DynamicTaxonomies.php:48
+#: src/Components/Post/Components/FeaturedImage.php:44
+msgid "This field is required"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:53
+msgid "0"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:54
+msgid "1"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:55
+msgid "2"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:56
+msgid "3"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:57
+msgid "4"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:58
+msgid "5"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:59
+msgid "6"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:60
+msgid "7"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:61
+msgid "8"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:62
+msgid "9"
+msgstr ""
+
+#: src/Components/NetPromoterScore.php:63
+msgid "10"
+msgstr ""
+
+#: src/Components/Uploader.php:31
+#: src/Components/Post/Components/FeaturedImage.php:103
+msgid "Choose File"
+msgstr ""
+
+#: src/Components/PhoneField.php:30
+msgid "Mobile Number"
+msgstr ""
+
+#: src/Components/PhoneField.php:48
+msgid "Phone number is not valid"
+msgstr ""
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:167
+#, php-format
+msgid "Thank you for purchasing %s!  Please enter your license key below."
+msgstr ""
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:229
+msgid "Sorry! You do not have permission to activate this license."
+msgstr ""
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:354
+msgid "Sorry! You do not have permission to deactivate this license."
+msgstr ""
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:388
+msgid ""
+"There was an error deactivating the license, please try again or contact "
+"support."
+msgstr ""
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:405
+msgid "License deactivated"
+msgstr ""
+
+#: libs/ff_plugin_updater/updater/FluentFormAddOnChecker.php:414
+msgid "Unable to deactivate license, please try again or contact support."
+msgstr ""
+
+#: src/Payments/Classes/PaymentReceipt.php:71
+msgid "Invalid submission. No receipt found"
+msgstr ""
+
+#: src/Payments/Classes/PaymentReceipt.php:79
+msgid "Order Details"
+msgstr ""
+
+#: src/Payments/PaymentMethods/BaseProcessor.php:336
+msgid "Payment Success"
+msgstr ""
+
+#: src/Payments/PaymentMethods/BaseProcessor.php:338
+msgid "Payment Failed"
+msgstr ""
+
+#: src/Payments/Components/CustomPaymentComponent.php:37
+#: src/Payments/Components/CustomPaymentComponent.php:69
+msgid "Custom Payment Amount"
+msgstr ""
+
+#: src/Payments/Components/CustomPaymentComponent.php:51
+#: src/Payments/Components/ItemQuantity.php:53
+msgid "This field must contain numeric value"
+msgstr ""
+
+#: src/Payments/Components/CustomPaymentComponent.php:55
+#: src/Payments/Components/ItemQuantity.php:57
+msgid "Minimum value is "
+msgstr ""
+
+#: src/Payments/Components/CustomPaymentComponent.php:59
+#: src/Payments/Components/ItemQuantity.php:61
+msgid "Maximum value is "
+msgstr ""
+
+#: src/Payments/Components/ItemQuantity.php:38
+#: src/views/receipt/order_items_table.php:4
+msgid "Quantity"
+msgstr ""
+
+#: src/Payments/Components/ItemQuantity.php:67
+msgid "Item Quantity"
+msgstr ""
+
+#: src/Payments/Components/ItemQuantity.php:107
+msgid "Product Field Mapping"
+msgstr ""
+
+#: src/Payments/Components/ItemQuantity.php:108
+msgid "Select which Product this field is tied to"
+msgstr ""
+
+#: src/Payments/Components/MultiPaymentComponent.php:34
+msgid "Payment Item"
+msgstr ""
+
+#: src/Payments/Components/MultiPaymentComponent.php:47
+msgid "Price:"
+msgstr ""
+
+#: src/Payments/Components/MultiPaymentComponent.php:60
+msgid "Payment Field"
+msgstr ""
+
+#: src/Payments/Components/PaymentMethods.php:90
+msgid "Payment Methods"
+msgstr ""
+
+#: src/Payments/Components/PaymentMethods.php:91
+msgid ""
+"Please Select and Configure the payment methods for this form, At least 1 "
+"method is required. If you select only one it will not show on the form for "
+"selection but will process that payment with the selected method."
+msgstr ""
+
+#: src/Payments/Components/PaymentMethods.php:127
+msgid ""
+"No activated payment method found. If you are an admin please check the "
+"payment settings"
+msgstr ""
+
+#: src/classes/SharePage/SharePage.php:37
+msgid "Landing Page"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:56
+msgid "Feed successfully updated"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:59
+msgid "Feed successfully created"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:77
+msgid "Selected WebHook Feed is deleted"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:94
+msgid "Feed Name is required"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:95
+msgid "Request URL is required"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:96
+msgid "Request URL format is invalid"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:97
+msgid "Request body is required"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:103
+msgid "Field name is required"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:107
+msgid "Header name is required"
+msgstr ""
+
+#: src/Integrations/WebHook/Client.php:113
+msgid "Please fix the errors"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:36
+msgid "Drip API Settings"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:37
+msgid ""
+"Drip is an ECRM and Ecommerce CRM designed for building personal and "
+"profitable relationships with your customers at scale. Use Fluent Form to "
+"collect customer information and automatically add it to your Drip list."
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:38
+msgid "Your Drip configuration is valid"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:39
+msgid "Your Drip configuration is invalid"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:45
+msgid ""
+"Enter your Drip API Key, if you do not have <br>Please login to your Drip "
+"account settings -> User Info and find the api key"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:46
+msgid "Drip API Token"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:52
+msgid "Please Provide your Drip project id"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:53
+msgid "Drip project id"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:96
+#: src/Integrations/GetResponse/Bootstrap.php:52
+#: src/Integrations/ActiveCampaign/Bootstrap.php:92
+#: src/Integrations/Sendinblue/Bootstrap.php:85
+#: src/Integrations/Platformly/Bootstrap.php:94
+#: src/Integrations/CampaignMonitor/Bootstrap.php:98
+#: src/Integrations/Trello/Bootstrap.php:121
+#: src/Integrations/Aweber/Bootstrap.php:93
+msgid "Your settings has been updated and discarted"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:112
+#: src/Integrations/GetResponse/Bootstrap.php:72
+#: src/Integrations/ActiveCampaign/Bootstrap.php:107
+#: src/Integrations/ConstantContact/Bootstrap.php:106
+#: src/Integrations/Sendinblue/Bootstrap.php:100
+#: src/Integrations/Platformly/Bootstrap.php:109
+#: src/Integrations/Trello/Bootstrap.php:136
+#: src/Integrations/Aweber/Bootstrap.php:114
+msgid "Your settings has been updated!"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:207
+#: src/Integrations/ActiveCampaign/Bootstrap.php:195
+#: src/Integrations/Sendinblue/Bootstrap.php:189
+#: src/Integrations/Platformly/Bootstrap.php:199
+#: src/Integrations/IContact/Bootstrap.php:220
+#: src/Integrations/Aweber/Bootstrap.php:222
+msgid "First Name"
+msgstr ""
+
+#: src/Integrations/Drip/Bootstrap.php:212
+#: src/Integrations/ActiveCampaign/Bootstrap.php:200
+#: src/Integrations/Sendinblue/Bootstrap.php:194
+#: src/Integrations/Platformly/Bootstrap.php:204
+#: src/Integrations/IContact/Bootstrap.php:224
+#: src/Integrations/Aweber/Bootstrap.php:227
+msgid "Last Name"
+msgstr ""
+
+#: src/Integrations/SendFox/Bootstrap.php:35
+msgid "SendFox API Settings"
+msgstr ""
+
+#: src/Integrations/SendFox/Bootstrap.php:36
+msgid ""
+"SendFox is email marketing software. Use Fluent Form to collect customer "
+"information and automatically add it as SendFox subscriber list."
+msgstr ""
+
+#: src/Integrations/SendFox/Bootstrap.php:37
+msgid "Your SendFox API Key is valid"
+msgstr ""
+
+#: src/Integrations/SendFox/Bootstrap.php:38
+msgid "Your SendFox API Key is not valid"
+msgstr ""
+
+#: src/Integrations/SendFox/Bootstrap.php:44
+msgid ""
+"Enter your SendFox API Key, if you do not have <br>Please login to your "
+"Sendfox account and go to<br>Account -> Appi Key"
+msgstr ""
+
+#: src/Integrations/SendFox/Bootstrap.php:45
+msgid "SendFox API Key"
+msgstr ""
+
+#: src/Integrations/SendFox/Bootstrap.php:88
+#: src/Integrations/MailerLite/Bootstrap.php:83
+#: src/Integrations/ConvertKit/Bootstrap.php:93
+#: src/Integrations/ConstantContact/Bootstrap.php:89
+#: src/Integrations/SMSNotification/Bootstrap.php:101
+#: src/Integrations/GetGist/Bootstrap.php:84
+#: src/Integrations/CampaignMonitor/Bootstrap.php:109
+#: src/Integrations/GoogleSheet/Bootstrap.php:92
+#: src/Integrations/MooSend/Bootstrap.php:83
+msgid "Your settings has been updated"
+msgstr ""
+
+#: src/Integrations/SendFox/Bootstrap.php:118
+msgid "Your SendFox api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/MailerLite/Bootstrap.php:34
+msgid "MailerLite Settings"
+msgstr ""
+
+#: src/Integrations/MailerLite/Bootstrap.php:36
+msgid "Your MailerLite API Key is valid"
+msgstr ""
+
+#: src/Integrations/MailerLite/Bootstrap.php:37
+msgid "Your MailerLite API Key is not valid"
+msgstr ""
+
+#: src/Integrations/MailerLite/Bootstrap.php:38
+#: src/Integrations/GetResponse/Bootstrap.php:95
+#: src/Integrations/SMSNotification/Bootstrap.php:39
+#: src/Integrations/Hubspot/Bootstrap.php:39
+#: src/Integrations/GetGist/Bootstrap.php:39
+#: src/Integrations/IContact/Bootstrap.php:39
+msgid "Save Settings"
+msgstr ""
+
+#: src/Integrations/MailerLite/Bootstrap.php:43
+msgid ""
+"Enter your MailerLite API Key, if you do not have <br>Please login to your "
+"MailerLite account and go to<br>Profile -> Account Settings -> Account Info"
+msgstr ""
+
+#: src/Integrations/MailerLite/Bootstrap.php:44
+msgid "MailerLite API Key"
+msgstr ""
+
+#: src/Integrations/MailerLite/Bootstrap.php:118
+msgid "Your MailerLite api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/GetResponse/Bootstrap.php:91
+msgid "GetResponse API Settings"
+msgstr ""
+
+#: src/Integrations/GetResponse/Bootstrap.php:92
+msgid ""
+"GetResponse is an email marketing platform. It enables you to send email "
+"newsletters, campaigns, online surveys and follow-up autoresponders. Simple, "
+"easy interface. Use Fluent Form to collect customer information and "
+"automatically add it to your GetResponse list. If you don't have a "
+"GetResponse account, you can <a href=\"https://www.getresponse.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+
+#: src/Integrations/GetResponse/Bootstrap.php:93
+msgid "Your GetResponse configuration is valid"
+msgstr ""
+
+#: src/Integrations/GetResponse/Bootstrap.php:94
+msgid "Your GetResponse configuration is invalid"
+msgstr ""
+
+#: src/Integrations/GetResponse/Bootstrap.php:100
+msgid ""
+"Enter your GetResponse API Key, if you do not have<br />Please login to your "
+"GetResponse account and go to<br />Integrations & API from main menu."
+msgstr ""
+
+#: src/Integrations/GetResponse/Bootstrap.php:101
+msgid "GetResponse API Key"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:35
+msgid "ActiveCampaign API Settings"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:36
+msgid ""
+"ActiveCampaign is an integrated email marketing, marketing automation, and "
+"small business CRM. Save time while growing your business with sales "
+"automation. Use Fluent Form to collect customer information and "
+"automatically add it to your ActiveCampaign list. If you don't have an "
+"ActiveCampaign account, you can <a href=\"https://www.activecampaign.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:37
+msgid "Your ActiveCampaign configuration is valid"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:38
+msgid "Your ActiveCampaign configuration is invalid"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:44
+msgid "Please Provide your ActiveCampaign API URL"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:45
+msgid "ActiveCampaign API URL"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:50
+msgid ""
+"Enter your ActiveCampaign API Key, if you do not have <br>Please login to "
+"your ActiveCampaign account and find the api key"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:51
+msgid "ActiveCampaign API Key"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:205
+#: src/Integrations/Platformly/Bootstrap.php:209
+#: src/Integrations/IContact/Bootstrap.php:252
+#: src/Integrations/Aweber/Bootstrap.php:232
+msgid "Phone Number"
+msgstr ""
+
+#: src/Integrations/ActiveCampaign/Bootstrap.php:210
+msgid "Organization Name"
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:36
+msgid "ConvertKit Settings"
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:37
+msgid ""
+"ConvertKit is email marketing software for creators. Use Fluent Form to "
+"collect customer information and automatically add it as ConvertKit "
+"subscriber list."
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:38
+msgid "Your ConvertKit API Key is valid"
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:39
+msgid "Your ConvertKit API Key is not valid"
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:45
+msgid ""
+"Enter your ConvertKit API Key, if you do not have <br>Please login to your "
+"ConvertKit account and go to<br>Profile -> Account Settings -> Account Info"
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:46
+msgid "ConvertKit API Key"
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:51
+msgid ""
+"Enter your ConvertKit API Secret, if you do not have <br>Please login to "
+"your ConvertKit account and go to<br>Profile -> Account Settings -> Account "
+"Info"
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:52
+msgid "ConvertKit API Secret"
+msgstr ""
+
+#: src/Integrations/ConvertKit/Bootstrap.php:131
+msgid "Your ConvertKit api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/ConstantContact/Bootstrap.php:35
+msgid "Constant Contact API Settings"
+msgstr ""
+
+#: src/Integrations/ConstantContact/Bootstrap.php:36
+msgid ""
+"Constant Contact is an integrated email marketing, marketing automation, and "
+"small business CRM. Save time while growing your business with sales "
+"automation. Use Fluent Form to collect customer information and "
+"automatically add it to your Constant Contact list. If you don't have an "
+"Constant Contact account, you can <a href=\"https://www.trello.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+
+#: src/Integrations/ConstantContact/Bootstrap.php:37
+msgid "Your Constant Contact configuration is valid"
+msgstr ""
+
+#: src/Integrations/ConstantContact/Bootstrap.php:38
+msgid "Your Constant Contact configuration is invalid"
+msgstr ""
+
+#: src/Integrations/ConstantContact/Bootstrap.php:45
+msgid ""
+"Enter your Constant Contact access token Key, if you do not have <br>Please "
+"click here to get yours"
+msgstr ""
+
+#: src/Integrations/ConstantContact/Bootstrap.php:46
+msgid "Constant Contact access Key"
+msgstr ""
+
+#: src/Integrations/Sendinblue/Bootstrap.php:34
+msgid "Sendinblue API Settings"
+msgstr ""
+
+#: src/Integrations/Sendinblue/Bootstrap.php:35
+msgid ""
+"Sendinblue is an integrated email marketing, marketing automation, and small "
+"business CRM. Save time while growing your business with sales automation. "
+"Use Fluent Form to collect customer information and automatically add it to "
+"your Sendinblue list. If you don't have an Sendinblue account, you can <a "
+"href=\"https://www.sendinblue.com//\" target=\"_blank\">sign up for one here."
+"</a>"
+msgstr ""
+
+#: src/Integrations/Sendinblue/Bootstrap.php:36
+msgid "Your Sendinblue configuration is valid"
+msgstr ""
+
+#: src/Integrations/Sendinblue/Bootstrap.php:37
+msgid "Your Sendinblue configuration is invalid"
+msgstr ""
+
+#: src/Integrations/Sendinblue/Bootstrap.php:43
+msgid ""
+"Enter your Sendinblue API Key, if you do not have <br>Please login to your "
+"Sendinblue account and find the api key"
+msgstr ""
+
+#: src/Integrations/Sendinblue/Bootstrap.php:44
+msgid "Sendinblue V3 API Key"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:35
+msgid "SMS Provider Settings (Twillio)"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:36
+msgid "Please Provide your Twillio Settings here"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:37
+msgid "Your Twillio API Key is valid"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:38
+msgid "Your Twillio API Key is not valid"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:44
+msgid "Enter your twillo sender number"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:45
+msgid "Number From"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:50
+msgid "Enter Twillio Account SID. This can be found from twillio"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:51
+msgid "Account SID"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:56
+msgid "Enter Twillio API Auth Token. This can be found from twillio"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:57
+msgid "Auth Token"
+msgstr ""
+
+#: src/Integrations/SMSNotification/Bootstrap.php:143
+msgid "Your Twillio api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/Hubspot/Bootstrap.php:35
+msgid "Hubspot API Settings"
+msgstr ""
+
+#: src/Integrations/Hubspot/Bootstrap.php:36
+msgid ""
+"Hubspot is a CRM software. Use Fluent Form to collect customer information "
+"and automatically add it as Hubspot subscriber list."
+msgstr ""
+
+#: src/Integrations/Hubspot/Bootstrap.php:37
+msgid "Your Hubspot API Key is valid"
+msgstr ""
+
+#: src/Integrations/Hubspot/Bootstrap.php:38
+msgid "Your Hubspot API Key is not valid"
+msgstr ""
+
+#: src/Integrations/Hubspot/Bootstrap.php:44
+msgid ""
+"Enter your Hubspot API Key, if you do not have <br>Please login to your "
+"Hubspot account and go to<br>Profile -> Account Settings -> Account Info"
+msgstr ""
+
+#: src/Integrations/Hubspot/Bootstrap.php:45
+msgid "Hubspot API Key"
+msgstr ""
+
+#: src/Integrations/Hubspot/Bootstrap.php:83
+msgid "Your settings has been updated and discarded"
+msgstr ""
+
+#: src/Integrations/Hubspot/Bootstrap.php:121
+msgid "Your HubSport api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:34
+msgid "Platformly API Settings"
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:35
+msgid ""
+"Platformly is an integrated email marketing, marketing automation, and small "
+"business CRM. Save time while growing your business with sales automation. "
+"Use Fluent Form to collect customer information and automatically add it to "
+"your Platformly list. If you don't have an Platformly account, you can <a "
+"href=\"https://www.platform.ly/\" target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:36
+msgid "Your Platformly configuration is valid"
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:37
+msgid "Your Platformly configuration is invalid"
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:43
+msgid ""
+"Enter your Platformly API Key, if you do not have <br>Please login to your "
+"Platformly account and find the api key"
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:44
+msgid "Platformly API Key"
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:50
+msgid "Please Provide your Platformly project id"
+msgstr ""
+
+#: src/Integrations/Platformly/Bootstrap.php:51
+msgid "Platformly project id"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:35
+msgid "GetGist Settings"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:37
+msgid "Your GetGist API Key is valid"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:38
+msgid "Your GetGist API Key is not valid"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:44
+msgid ""
+"Enter your GetGist API Key, if you do not have <br>Please login to your "
+"GetGist account and go to<br>Settings -> Integrations -> API key"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:45
+msgid "GetGist API Key"
+msgstr ""
+
+#: src/Integrations/GetGist/Bootstrap.php:120
+msgid "Your GetGist api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:35
+msgid "iContact API Settings"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:36
+msgid ""
+"iContact is an email marketing platform to send email newsletters to your "
+"customers, manage your<br />subscriber lists, and track campaign performance."
+" Use Fluent Form to collect customer information<br />and automatically add "
+"it to your iContact list. If you don't have an iContact account,<br />you "
+"can <a href=\"https://www.icontact.com/\" target=\"_blank\">sign up for one "
+"here.</a>"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:37
+msgid "Your iContact configuration is valid"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:38
+msgid "Your iContact configuration is invalid"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:45
+msgid "Enter your iContact Application Key"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:46
+msgid "Application Key"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:51
+msgid "Enter your iContact Account Email Address"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:52
+msgid "Account Email Address"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:57
+msgid "Enter your iContact API Password"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:58
+msgid "API Password"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:63
+msgid "Enter your Client Folder ID"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:64
+msgid "Client Folder ID"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:108
+msgid "Your API settings has been updated and discarted"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:134
+msgid "Your API key settings has been verfied and updated. All good!"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:216
+msgid "Prefix"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:228
+msgid "Suffix"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:232
+msgid "Address: Line 1"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:236
+msgid "Address: Line 2"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:240
+msgid "Address: City"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:244
+msgid "Address: State"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:248
+msgid "Address: Postal Code"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:256
+msgid "Fax Number"
+msgstr ""
+
+#: src/Integrations/IContact/Bootstrap.php:260
+msgid "Business Number"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:36
+msgid "CampaignMonitor API Settings"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:37
+msgid ""
+"CampaignMonitor drives results with email marketing. It shares how to gain "
+"loyal customers with personalized email campaigns and automated customer "
+"journeys. Use Fluent Form to collect customer information and automatically "
+"add it to your CampaignMonitor list. If you don't have an CampaignMonitor "
+"account, you can <a href=\"https://www.campaignmonitor.com/\" "
+"target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:38
+msgid "Your CampaignMonitor configuration is valid"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:39
+msgid "Your CampaignMonitor configuration is invalid"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:45
+msgid ""
+"Enter your CampaignMonitor API Key, if you do not have <br>Please login to "
+"your CampaignMonitor account and find the api key"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:46
+msgid "CampaignMonitor API Key"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:52
+msgid "Select the CampaignMonitor client that you want to connect this site"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:53
+msgid "CampaignMonitor Client"
+msgstr ""
+
+#: src/Integrations/CampaignMonitor/Bootstrap.php:112
+msgid "Please Select Client Now"
+msgstr ""
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:37
+msgid "Google Sheets"
+msgstr ""
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:38
+msgid ""
+"Copy that Google Access Code from other window and paste it here, then clik "
+"on Verify Code button."
+msgstr ""
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:39
+msgid "Your Google Access Code is valid"
+msgstr ""
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:40
+msgid "Your Google Access Code is not valid"
+msgstr ""
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:41
+msgid "Verify Code"
+msgstr ""
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:46
+msgid ""
+"Enter Google Access Code. Please find this by clicking 'Get Google Sheet "
+"Access Code' Button"
+msgstr ""
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:47
+msgid "Access Code"
+msgstr ""
+
+#: src/Integrations/GoogleSheet/Bootstrap.php:121
+msgid "Your Google Sheet api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/Trello/Bootstrap.php:38
+msgid "Trello API Settings"
+msgstr ""
+
+#: src/Integrations/Trello/Bootstrap.php:39
+msgid ""
+"Trello is an integrated email marketing, marketing automation, and small "
+"business CRM. Save time while growing your business with sales automation. "
+"Use Fluent Form to collect customer information and automatically add it to "
+"your Trello list. If you don't have an Trello account, you can <a "
+"href=\"https://www.trello.com/\" target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+
+#: src/Integrations/Trello/Bootstrap.php:40
+msgid "Your Trello configuration is valid"
+msgstr ""
+
+#: src/Integrations/Trello/Bootstrap.php:41
+msgid "Your Trello configuration is invalid"
+msgstr ""
+
+#: src/Integrations/Trello/Bootstrap.php:48
+msgid ""
+"Enter your Trello access token Key, if you do not have <br>Please click here "
+"to get yours"
+msgstr ""
+
+#: src/Integrations/Trello/Bootstrap.php:49
+msgid "Trello access Key"
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:34
+msgid "MooSend API Settings"
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:35
+msgid ""
+"MooSend is email marketing software. Use Fluent Form to collect customer "
+"information and automatically add it as MooSend subscriber list."
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:36
+msgid "Your MooSend API Key is valid"
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:37
+msgid "Your MooSend API Key is not valid"
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:43
+msgid ""
+"Enter your MooSend API Key, if you do not have <br>Please login to your "
+"MooSend account and go to<br>Account -> Api Key"
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:44
+msgid "MooSend API Key"
+msgstr ""
+
+#: src/Integrations/MooSend/Bootstrap.php:113
+msgid "Your MooSend api key has been verfied and successfully set"
+msgstr ""
+
+#: src/Integrations/Aweber/Bootstrap.php:35
+msgid "AWeber API Settings"
+msgstr ""
+
+#: src/Integrations/Aweber/Bootstrap.php:36
+msgid ""
+"AWeber is an integrated email marketing, marketing automation, and small "
+"business CRM. Save time while growing your business with sales automation. "
+"Use Fluent Form to collect customer information and automatically add it to "
+"your Aweber list. If you don't have an Aweber account, you can <a "
+"href=\"https://www.aweber.com/\" target=\"_blank\">sign up for one here.</a>"
+msgstr ""
+
+#: src/Integrations/Aweber/Bootstrap.php:37
+msgid "Your Aweber configuration is valid"
+msgstr ""
+
+#: src/Integrations/Aweber/Bootstrap.php:38
+msgid "Your Aweber configuration is invalid"
+msgstr ""
+
+#: src/Integrations/Aweber/Bootstrap.php:45
+msgid ""
+"Enter your Aweber Access token, if you do not have <br>Please click on the "
+"get Access token"
+msgstr ""
+
+#: src/Integrations/Aweber/Bootstrap.php:46
+msgid "AWeber Access Token"
+msgstr ""
+
+#: src/Components/Post/EditorSettings.php:94
+msgid "Select"
+msgstr ""
+
+#: src/Components/Post/EditorSettings.php:98
+msgid "Multi-Select"
+msgstr ""
+
+#: src/Components/Post/EditorSettings.php:102
+msgid "Checkbox"
+msgstr ""
+
+#: src/Components/Post/EditorSettings.php:123
+msgid "Post Creation"
+msgstr ""
+
+#: src/Components/ChainedSelect/ChainedSelect.php:45
+msgid "Select Parent | Select Child"
+msgstr ""
+
+#: src/views/receipt/customer_details.php:5
+msgid "Customer Name:"
+msgstr ""
+
+#: src/views/receipt/customer_details.php:6
+msgid "Customer Email:"
+msgstr ""
+
+#: src/views/receipt/customer_details.php:8
+msgid "Billing Address:"
+msgstr ""
+
+#: src/views/receipt/customer_details.php:11
+msgid "Shipping Address:"
+msgstr ""
+
+#: src/views/receipt/order_items_table.php:3
+msgid "Item"
+msgstr ""
+
+#: src/views/receipt/order_items_table.php:5
+msgid "Price"
+msgstr ""
+
+#: src/views/receipt/order_items_table.php:6
+msgid "Line Total"
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:127
+msgid ""
+"You are redirecting to paypal.com to complete the purchase. Please wait "
+"while you are redirecting...."
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:188
+msgid "Payment was not marked as Paid"
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:190
+msgid ""
+"Looks like the payment is not marked as paid yet. Please reload this page "
+"after 1-2 minutes. Sometimes, PayPal payments take few minutes to marked as "
+"paid.  Please contact if needed!"
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:195
+msgid "Payment Cancelled"
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalProcessor.php:197
+msgid "Looks like you have cancelled the payment"
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalHandler.php:38
+msgid "PayPal"
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalHandler.php:67
+msgid "PayPal Email address is required"
+msgstr ""
+
+#: src/Payments/PaymentMethods/PayPal/PayPalHandler.php:71
+msgid "Please select Payment Mode"
+msgstr ""
+
+#: src/Payments/PaymentMethods/Offline/OfflineHandler.php:28
+msgid "Test Payment"
+msgstr ""
+
+#: src/Payments/PaymentMethods/Stripe/StripeProcessor.php:143
+msgid ""
+"You are redirecting to stripe.com to complete the purchase. Please wait "
+"while you are redirecting...."
+msgstr ""
+
+#: src/Payments/PaymentMethods/Stripe/StripeProcessor.php:253
+msgid "Looks like you have cancelled the payment. Please try again!"
+msgstr ""
+
+#: src/Payments/PaymentMethods/Stripe/StripeHandler.php:45
+msgid "Credit/Debit Card (Stripe)"
+msgstr ""
+
+#: src/Components/Post/Components/FeaturedImage.php:49
+msgid "Maximum file size limit is 1MB"
+msgstr ""
+
+#: src/Components/Post/Components/FeaturedImage.php:53
+msgid "You can upload maximum 1 image"
+msgstr ""
+
+#: src/Components/Post/Components/FeaturedImage.php:57
+msgid "Allowed image types does not match"
+msgstr ""
+
+#: src/Payments/PaymentMethods/Stripe/API/ApiRequest.php:131
+#: src/Payments/PaymentMethods/Stripe/API/ApiRequest.php:156
+msgid "There was a problem connecting to the Stripe API endpoint."
+msgstr ""
+
+#. Name of the plugin
+msgid "Fluent Forms Pro Add On Pack"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The Pro version of FluentForm, the most advanced, drag and drop form builder "
+"plugin for WordPress."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpfluentforms.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Fluent Forms"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpfluentforms.com"
+msgstr ""
