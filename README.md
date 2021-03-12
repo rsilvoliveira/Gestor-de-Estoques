@@ -1,1 +1,4 @@
-Site do WordPress
+Gerenciador de estoques - site wordpress
+
+User:  Rodrigo
+Senha: senha
